@@ -2,11 +2,11 @@
   "name": "default",
   "type": "mysql",
   "host": "localhost",
-  "port": 8899,
+  "port": 8886,
   "username": "root",
   "password": "password",
   "database": "Auth-training",
-  "synchronize": true,
+  "synchronize": false,
   "logging": false,
   "entities": ["dist/**/*.entity{.ts,.js}"]
 }
